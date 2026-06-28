@@ -1,0 +1,802 @@
+canonical_identifier: bkk:krp/KR1c0004/v1
+canonical_location: https://kanripo.org/bkk/KR1c0004/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 毛詩注疏
+  date: '2015-08-24 22:04:14.916448'
+  source:
+    repository: kanripo
+    path: KR1c0004
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1c0004_000.yaml, hash: 'sha256:3a1084673dabb59331fdf46ef846ad7c0ac36565731cf0903ecd8605fb9f3ba8'}
+  - {seq: 1, filename: KR1c0004_001.yaml, hash: 'sha256:5c56296487a44442f3ae18d04d6dfb563e45f8336ef55544df9d1c865f718e66'}
+  - {seq: 2, filename: KR1c0004_002.yaml, hash: 'sha256:9505ec65d19fcd5cec752e0f60bbb20dda89a934445261fa9ee2b9d55d73fe24'}
+  - {seq: 3, filename: KR1c0004_003.yaml, hash: 'sha256:bab5a04353c6c7f2af781718da41c3209785ef6d74c490bd40baeaf4743b2787'}
+  - {seq: 4, filename: KR1c0004_004.yaml, hash: 'sha256:7147654cc922e9823b307db91069792c1d7affad75c15791533a24996a48d7b0'}
+  - {seq: 5, filename: KR1c0004_005.yaml, hash: 'sha256:06a79c759bdca802304482955e9a55bb4383c5c0158b8740a4dd973785f38d62'}
+  - {seq: 6, filename: KR1c0004_006.yaml, hash: 'sha256:52ded2caddfd8559d759ba4dc756675940bf927423d07afce35ae7c0e8cc1b4b'}
+  - {seq: 7, filename: KR1c0004_007.yaml, hash: 'sha256:7b831f22dc86695f418116e50c7c084496a4a7517b627fca19171a0934dc847f'}
+  - {seq: 8, filename: KR1c0004_008.yaml, hash: 'sha256:466f1490cf04bfbe1892ef8cb55ddc76fc02662246dae7415d673cefa257a00c'}
+  - {seq: 9, filename: KR1c0004_009.yaml, hash: 'sha256:bd0cb46b5d22b8037c5ae0bb8e4459da73b84192b7fd10ad2375b557f4cbb228'}
+  - {seq: 10, filename: KR1c0004_010.yaml, hash: 'sha256:7aff4175e12e41e8f2ac59c344879c9ebb0ee900681665750898e9fba482ad72'}
+  - {seq: 11, filename: KR1c0004_011.yaml, hash: 'sha256:88bab39d3715236145226d9954145ed9ecef7bc909c4fe91ccfa697d506b0a38'}
+  - {seq: 12, filename: KR1c0004_012.yaml, hash: 'sha256:b1c4dda5afae3c7554fcee9f1409862c911320538d463340aa65a285e9dbce3f'}
+  - {seq: 13, filename: KR1c0004_013.yaml, hash: 'sha256:8de51447d6d5c0d8667ae1b5526ab983f725f76418a08c933d2a2055a53e368d'}
+  - {seq: 14, filename: KR1c0004_014.yaml, hash: 'sha256:be8c582ac0bf601c579af6a874b5e4b1a35d83dddb7e62e5bc1b49690c3b9ae0'}
+  - {seq: 15, filename: KR1c0004_015.yaml, hash: 'sha256:89c7bca63c76a68221037ba8450510e0652b85b7d93f13e43775f4e1e58a6a7b'}
+  - {seq: 16, filename: KR1c0004_016.yaml, hash: 'sha256:e38b046b6b23a9801059fbc9d2372dec70ace48b169b489ac4b2aeb2ed3314b3'}
+  - {seq: 17, filename: KR1c0004_017.yaml, hash: 'sha256:43ff332bd6d742b2edd11a6bf96601b64c81dd9234fe5cf4a78d47b2b8680319'}
+  - {seq: 18, filename: KR1c0004_018.yaml, hash: 'sha256:e275ec1fe15a9abacba17beca5d7acee10b48c8f711c26b8e16bfa160dd65749'}
+  - {seq: 19, filename: KR1c0004_019.yaml, hash: 'sha256:df84c921a096aa05b4f3a8f57b7b39e025da4fe037e1407f843c8430251c178f'}
+  - {seq: 20, filename: KR1c0004_020.yaml, hash: 'sha256:12b876da3fd9ad46514a04a94c924e286b3c929ea8cfd920af992907dba641f0'}
+  - {seq: 21, filename: KR1c0004_021.yaml, hash: 'sha256:3be7a66da4bb3f23b31902a5f196e92993028cfd763d7999613052f87c69e390'}
+  - {seq: 22, filename: KR1c0004_022.yaml, hash: 'sha256:014a03c38483142afca1fd7470c2ed83c098dc12ce142a68ec7320521aafa137'}
+  - {seq: 23, filename: KR1c0004_023.yaml, hash: 'sha256:a09b0b24589fa0e73b7270d5afffdaf40f2048a5ef8e00758a507ca012f0bd4b'}
+  - {seq: 24, filename: KR1c0004_024.yaml, hash: 'sha256:9d44b8308030ec704c59d95b840ae54f5c3c537f6345e0d1b43a9e1f425e0e49'}
+  - {seq: 25, filename: KR1c0004_025.yaml, hash: 'sha256:2aba0701e950c0347ba7a8ad12d334eac81798f4d88613678a4f791c5eee0f54'}
+  - {seq: 26, filename: KR1c0004_026.yaml, hash: 'sha256:ef93ef239976b7cb2a9f6f37885060f6c83c7d174e7db9a5c554c588a9b8ad6a'}
+  - {seq: 27, filename: KR1c0004_027.yaml, hash: 'sha256:6a46e256eda666855d39c9590450fb2f7ae68248a4c4a4e47566365dcec91f31'}
+  - {seq: 28, filename: KR1c0004_028.yaml, hash: 'sha256:91264de0ca7187131d553fb061a84de1dab002f9b01b15b43f5a6e4931ca877d'}
+  - {seq: 29, filename: KR1c0004_029.yaml, hash: 'sha256:1d888cf110fd5ba7ec10a45d06c4bcf37745090464159c7f3bf674b179e67f0a'}
+  - {seq: 30, filename: KR1c0004_030.yaml, hash: 'sha256:9896f1811c36af350412fc8914cbf76d6d05fd6cf908726bf5685d5724a9d882'}
+  - {seq: 31, filename: KR1c0004_031.yaml, hash: 'sha256:b775a6118f4a30e6945ce28eaef8116f030b53a2aa5a3252802e860edec06f1e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1c0004_000.markers.yaml, hash: 'sha256:e1c398a661be92ddbab56ef1943de6ef0b0af097a58cd82987396593f21efef0'}
+  - {seq: 1, role: markers, filename: assets/KR1c0004_001.markers.yaml, hash: 'sha256:059922a9eea5fb3f4fbfa9f640e44d25fc74bc6c6cfa92b7714a016782e848bd'}
+  - {seq: 2, role: markers, filename: assets/KR1c0004_002.markers.yaml, hash: 'sha256:8ec0a5f612071369b6b740b969c02c9a7996a3cf1a00fd976c7fc267b5bcd5ef'}
+  - {seq: 3, role: markers, filename: assets/KR1c0004_003.markers.yaml, hash: 'sha256:559c4f511aa305289ea6f270aa8484259f5b8dcfdcaf3c59967f5b1acee501e6'}
+  - {seq: 4, role: markers, filename: assets/KR1c0004_004.markers.yaml, hash: 'sha256:881167837f36801261b7c62cd1c5633461d319a824e5250af59740e3d9ba5ef5'}
+  - {seq: 5, role: markers, filename: assets/KR1c0004_005.markers.yaml, hash: 'sha256:bf75c2ed387804853ebb7254f79f8c33bc4541d0aa6b5dc1f8637037b87d8ad7'}
+  - {seq: 6, role: markers, filename: assets/KR1c0004_006.markers.yaml, hash: 'sha256:e5a508254116aab3ae2702c335383ce9045687b68d965c722587b61a66477a4d'}
+  - {seq: 7, role: markers, filename: assets/KR1c0004_007.markers.yaml, hash: 'sha256:d398e192ef20b6f36510605da1ff307aac83d7c57d6c63fad4f586b815a9a6da'}
+  - {seq: 8, role: markers, filename: assets/KR1c0004_008.markers.yaml, hash: 'sha256:1c2b650861ddd5a389e6d4019b9718d8a68331e54da1fb395cec95fd36ad120c'}
+  - {seq: 9, role: markers, filename: assets/KR1c0004_009.markers.yaml, hash: 'sha256:09fa9a96a96a1131a034eb42dc95ee54ef88e9b0d4aed0d95037a1862f6aaf85'}
+  - {seq: 10, role: markers, filename: assets/KR1c0004_010.markers.yaml, hash: 'sha256:33f06c4f743b2064956f62fc56da2842cf53a7d9412f3d74c9cd85ee51d68714'}
+  - {seq: 11, role: markers, filename: assets/KR1c0004_011.markers.yaml, hash: 'sha256:03912ad26ab52015ff13618043c643e3983ed03ab77caacc08171472e230f36e'}
+  - {seq: 12, role: markers, filename: assets/KR1c0004_012.markers.yaml, hash: 'sha256:871b4c25fd08e84754f1858c2be7b45f0805271605a9fae1871b87820e8e3c83'}
+  - {seq: 13, role: markers, filename: assets/KR1c0004_013.markers.yaml, hash: 'sha256:17de7456a9c805170f2b2622220fca535a955038878f50fc078ea6fe793e407f'}
+  - {seq: 14, role: markers, filename: assets/KR1c0004_014.markers.yaml, hash: 'sha256:95a9af627f637a35fd045fe9108f61c1baaa04b699c502ee089c1f51c01a5130'}
+  - {seq: 15, role: markers, filename: assets/KR1c0004_015.markers.yaml, hash: 'sha256:5372645ecdcde369da69c9f21aaea917bbd7d1208ccfde8f257df8a27794c6b3'}
+  - {seq: 16, role: markers, filename: assets/KR1c0004_016.markers.yaml, hash: 'sha256:23fb113c5c8a39f45e2356660d1fe47fc00770d478c4007ad4ca6e5eeb56c02d'}
+  - {seq: 17, role: markers, filename: assets/KR1c0004_017.markers.yaml, hash: 'sha256:b4ac5020c7987532e8b7f736bc0896074918ca8ec6bb0a752c51ebdc30389982'}
+  - {seq: 18, role: markers, filename: assets/KR1c0004_018.markers.yaml, hash: 'sha256:e44efdd79a117df02708b4d03f612ce435a103af09323880a1f0060ab2f8bae4'}
+  - {seq: 19, role: markers, filename: assets/KR1c0004_019.markers.yaml, hash: 'sha256:61545e63a9f5fb2cff02793f8a3427b2ce1614d2b2892f66eef9e47037be3252'}
+  - {seq: 20, role: markers, filename: assets/KR1c0004_020.markers.yaml, hash: 'sha256:8454201e4c60316f5b751d8972b23d12f13b23a689eaa009d8553cabd1fa0a8a'}
+  - {seq: 21, role: markers, filename: assets/KR1c0004_021.markers.yaml, hash: 'sha256:d0970807fe93617045422511650911ab12c09903b693eb031cdb3c1b20838309'}
+  - {seq: 22, role: markers, filename: assets/KR1c0004_022.markers.yaml, hash: 'sha256:e15614cd7663a59a544095435a24de14a293d9217bef83520857d594b97c86db'}
+  - {seq: 23, role: markers, filename: assets/KR1c0004_023.markers.yaml, hash: 'sha256:b9fe0f8116e069d93b3ed28dc819a985ac7b56473b262ff7ef04267422fc7cc3'}
+  - {seq: 24, role: markers, filename: assets/KR1c0004_024.markers.yaml, hash: 'sha256:98ea4bf0b752b6f4e33d25110d15c3a150eb332c77c0df3f93a2c619242049a1'}
+  - {seq: 25, role: markers, filename: assets/KR1c0004_025.markers.yaml, hash: 'sha256:9332a29bce01cd271e0532faa9787c1074c4dd28e153bd2efa2b2b34bbca281c'}
+  - {seq: 26, role: markers, filename: assets/KR1c0004_026.markers.yaml, hash: 'sha256:dde2b35238e3fba19505a292a199d59b87056a7b9ded2154b8d5d3f9ab9da1b2'}
+  - {seq: 27, role: markers, filename: assets/KR1c0004_027.markers.yaml, hash: 'sha256:23ba011f659ac10c633d29a06f3bbc4156b17e9b78aa0534b0d2f12e8b9d708d'}
+  - {seq: 28, role: markers, filename: assets/KR1c0004_028.markers.yaml, hash: 'sha256:0916bd2ad3b1a8f72575312a9dd3ca769e36f7ba4b1c509bf7da18218abfcb10'}
+  - {seq: 29, role: markers, filename: assets/KR1c0004_029.markers.yaml, hash: 'sha256:fd4e77c354ed76e99dc3d98e0f17c12c72b044a8c5df83b158093a2915dacaae'}
+  - {seq: 30, role: markers, filename: assets/KR1c0004_030.markers.yaml, hash: 'sha256:5189852dbeae6f54bd87edfb1e917cbb66957134fd552fd4543ae0cc353ea2ae'}
+  - {seq: 31, role: markers, filename: assets/KR1c0004_031.markers.yaml, hash: 'sha256:b0840a5d5a4f763f4927c8e75e89cf2dc3496e347d2197383e6b7122dfba1f8b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 416
+  label: 御製詠詩六義
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-3a
+    span:
+    - body
+    - 416
+    - 1538
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-8a
+    span:
+    - body
+    - 1538
+    - 2154
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-10a
+    span:
+    - body
+    - 2154
+    - 7224
+  label: 詩譜序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-19a
+    span:
+    - body
+    - 7224
+    - 7392
+  label: 詩譜序考證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-20a
+    span:
+    - body
+    - 7392
+    - 64372
+  label: 毛詩譜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-118a
+    span:
+    - body
+    - 64372
+    - 66719
+  label: 毛詩譜考證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-127a
+    span:
+    - body
+    - 66719
+    - 71088
+  label: 原目
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-136a
+    span:
+    - body
+    - 71088
+    - 71443
+  label: 原目考證
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1c0004_WYG_000-138a
+    span:
+    - body
+    - 71443
+    - 73101
+  label: 傳述人
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1c0004_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 40791
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1c0004_WYG_001-72a
+    span:
+    - body
+    - 40791
+    - 41891
+  label: 卷一考證
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1c0004_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 29884
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1c0004_WYG_002-56a
+    span:
+    - body
+    - 29884
+    - 30595
+  label: 卷二考證
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1c0004_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 41576
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1c0004_WYG_003-81a
+    span:
+    - body
+    - 41576
+    - 42123
+  label: 卷三考證
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1c0004_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 22556
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR1c0004_WYG_004-43a
+    span:
+    - body
+    - 22556
+    - 23063
+  label: 卷四考證
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1c0004_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 19939
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR1c0004_WYG_005-40a
+    span:
+    - body
+    - 19939
+    - 20303
+  label: 卷五考證
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1c0004_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 13311
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR1c0004_WYG_006-28a
+    span:
+    - body
+    - 13311
+    - 13694
+  label: 卷六考證
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1c0004_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 28626
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR1c0004_WYG_007-56a
+    span:
+    - body
+    - 28626
+    - 29110
+  label: 卷七考證
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1c0004_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 21351
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR1c0004_WYG_008-41a
+    span:
+    - body
+    - 21351
+    - 21636
+  label: 卷八考證
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1c0004_WYG_009-1a
+    span:
+    - body
+    - 0
+    - 8525
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR1c0004_WYG_009-19a
+    span:
+    - body
+    - 8525
+    - 8643
+  label: 卷九考證
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR1c0004_WYG_010-1a
+    span:
+    - body
+    - 0
+    - 17108
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR1c0004_WYG_010-35a
+    span:
+    - body
+    - 17108
+    - 17553
+  label: 卷十考證
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR1c0004_WYG_011-1a
+    span:
+    - body
+    - 0
+    - 17492
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR1c0004_WYG_011-34a
+    span:
+    - body
+    - 17492
+    - 17603
+  label: 卷十一考證
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR1c0004_WYG_012-1a
+    span:
+    - body
+    - 0
+    - 11409
+  label: 卷十二
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR1c0004_WYG_012-24a
+    span:
+    - body
+    - 11409
+    - 11611
+  label: 卷十二考證
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR1c0004_WYG_013-1a
+    span:
+    - body
+    - 0
+    - 6561
+  label: 卷十三
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR1c0004_WYG_013-14a
+    span:
+    - body
+    - 6561
+    - 6807
+  label: 卷十三考證
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR1c0004_WYG_014-1a
+    span:
+    - body
+    - 0
+    - 6909
+  label: 卷十四
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR1c0004_WYG_014-15a
+    span:
+    - body
+    - 6909
+    - 7012
+  label: 卷十四考證
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR1c0004_WYG_015-1a
+    span:
+    - body
+    - 0
+    - 32555
+  label: 卷十五
+  type: section
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR1c0004_WYG_015-59a
+    span:
+    - body
+    - 32555
+    - 33088
+  label: 卷十五考證
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR1c0004_WYG_016-1a
+    span:
+    - body
+    - 0
+    - 35696
+  label: 卷十六
+  type: section
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR1c0004_WYG_016-67a
+    span:
+    - body
+    - 35696
+    - 36069
+  label: 卷十六考證
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR1c0004_WYG_017-1a
+    span:
+    - body
+    - 0
+    - 31233
+  label: 卷十七
+  type: section
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR1c0004_WYG_017-59a
+    span:
+    - body
+    - 31233
+    - 31340
+  label: 卷十七考證
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR1c0004_WYG_018-1a
+    span:
+    - body
+    - 0
+    - 22587
+  label: 卷十八
+  type: section
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR1c0004_WYG_018-44a
+    span:
+    - body
+    - 22587
+    - 22754
+  label: 卷十八考證
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR1c0004_WYG_019-1a
+    span:
+    - body
+    - 0
+    - 47521
+  label: 卷十九
+  type: section
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR1c0004_WYG_019-92a
+    span:
+    - body
+    - 47521
+    - 47865
+  label: 卷十九考證
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR1c0004_WYG_020-1a
+    span:
+    - body
+    - 0
+    - 38774
+  label: 卷二十
+  type: section
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR1c0004_WYG_020-72a
+    span:
+    - body
+    - 38774
+    - 39242
+  label: 卷二十考證
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR1c0004_WYG_021-1a
+    span:
+    - body
+    - 0
+    - 42794
+  label: 卷二十一
+  type: section
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR1c0004_WYG_021-77a
+    span:
+    - body
+    - 42794
+    - 43059
+  label: 卷二十一考證
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR1c0004_WYG_022-1a
+    span:
+    - body
+    - 0
+    - 39979
+  label: 卷二十二
+  type: section
+  level: 1
+- ref:
+    seq: 22
+    marker_id: KR1c0004_WYG_022-75a
+    span:
+    - body
+    - 39979
+    - 40348
+  label: 卷二十二考證
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR1c0004_WYG_023-1a
+    span:
+    - body
+    - 0
+    - 71861
+  label: 卷二十三
+  type: section
+  level: 1
+- ref:
+    seq: 23
+    marker_id: KR1c0004_WYG_023-126a
+    span:
+    - body
+    - 71861
+    - 72301
+  label: 卷二十三考證
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR1c0004_WYG_024-1a
+    span:
+    - body
+    - 0
+    - 65102
+  label: 卷二十四
+  type: section
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR1c0004_WYG_024-116a
+    span:
+    - body
+    - 65102
+    - 65701
+  label: 卷二十四考證
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR1c0004_WYG_025-1a
+    span:
+    - body
+    - 0
+    - 76908
+  label: 卷二十五
+  type: section
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR1c0004_WYG_025-142a
+    span:
+    - body
+    - 76908
+    - 77358
+  label: 卷二十五考證
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR1c0004_WYG_026-1a
+    span:
+    - body
+    - 0
+    - 22153
+  label: 卷二十六
+  type: section
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR1c0004_WYG_026-40a
+    span:
+    - body
+    - 22153
+    - 22398
+  label: 卷二十六考證
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR1c0004_WYG_027-1a
+    span:
+    - body
+    - 0
+    - 20907
+  label: 卷二十七
+  type: section
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR1c0004_WYG_027-38a
+    span:
+    - body
+    - 20907
+    - 21059
+  label: 卷二十七考證
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR1c0004_WYG_028-1a
+    span:
+    - body
+    - 0
+    - 23522
+  label: 卷二十八
+  type: section
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR1c0004_WYG_028-43a
+    span:
+    - body
+    - 23522
+    - 23831
+  label: 卷二十八考證
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR1c0004_WYG_029-1a
+    span:
+    - body
+    - 0
+    - 26795
+  label: 卷二十九
+  type: section
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR1c0004_WYG_029-49a
+    span:
+    - body
+    - 26795
+    - 26875
+  label: 卷二十九考證
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR1c0004_WYG_030-1a
+    span:
+    - body
+    - 0
+    - 23140
+  label: 卷三十
+  type: section
+  level: 1
+- ref:
+    seq: 30
+    marker_id: KR1c0004_WYG_030-43a
+    span:
+    - body
+    - 23140
+    - 23329
+  label: 卷三十考證
+  type: section
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR1c0004_WYG_031-1a
+    span:
+    - body
+    - 0
+    - 344
+  label: 考證跋語
+  type: section
+  level: 1
+hash: sha256:bb1d0a907e1eab91631aed29ff775192fbf7c8b7f9237d2aa2cfb375bae01994
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
